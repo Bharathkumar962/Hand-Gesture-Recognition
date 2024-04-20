@@ -1,4 +1,4 @@
-Hand Gesture Text Recognition System
+#Hand Gesture Text Recognition System
 The Hand Gesture Text Recognition system is designed to seamlessly translate hand gestures into text, enhancing user interaction. This README provides an overview of the system's architecture, functionality, installation and usage instructions, testing methodologies, contribution guidelines, license information, and acknowledgments.
 
 Architecture Overview
